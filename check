@@ -9,7 +9,7 @@ def check_password_strength(password):
     else:
         return "Password is weak"
 
-# Test the password strength1
+# Test the password strength11
 password1 = "abc1233"
 password2 = "strongP@ssw0rd"
 password3 = "weakpassword"
