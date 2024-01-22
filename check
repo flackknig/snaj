@@ -1,4 +1,4 @@
-# Password strength check in Pythony111
+# Password strength check in Pythony1112
 
 def check_password_strength(password):
     special_characters = "!@#$%^&*()_+[]{};:,.<>?/"
